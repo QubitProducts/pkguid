@@ -1,0 +1,10 @@
+{
+  "name": "pkguid",
+  "version": "1.0.0",
+  "description": "A module for parsing & creating package UIDs",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:qubitdigital/pkguid.git"
+  }
+}
