@@ -1,6 +1,6 @@
 {
   "name": "pkguid",
-  "version": "1.0.0",
+  "version": "1.1.0",
   "description": "A module for parsing & creating package UIDs",
   "main": "index.js",
   "repository": {

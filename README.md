@@ -1,7 +1,7 @@
 pkguid
 ====
 
-A module for parsing & creating package UIDs
+A module for parsing & creating package UIDs which supports CommonJS/AMD format
 
 ### Usage
 
