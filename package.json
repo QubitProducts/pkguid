@@ -5,6 +5,6 @@
   "main": "index.js",
   "repository": {
     "type": "git",
-    "url": "git@github.com:qubitdigital/pkguid.git"
+    "url": "git@github.com:QubitProducts/pkguid.git"
   }
 }
